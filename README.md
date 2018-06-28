@@ -1,0 +1,2 @@
+# triqui
+proyecto Js 
